@@ -1,0 +1,6 @@
+satisfice_articles/
+satisfice_articles.zip
+chroma_db_james_bach/
+.venv/
+__pycache__/
+.env
